@@ -4,3 +4,4 @@ Assumptions:
 2) String follows normal grammatical syntax and words might end with commas or full stops followed by space.
 3) Function takes care of empty and null strings.
 4) Tests are written with these assumptions.
+5) Tests are within src/test. Please ignore the 'trowprice' test repo.
