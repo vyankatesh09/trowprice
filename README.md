@@ -1,2 +1,0 @@
-# trowprice
-Hiring Challenge
