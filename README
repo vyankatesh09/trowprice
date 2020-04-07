@@ -1,0 +1,6 @@
+Assumptions:
+
+1) Input String assumes that all words are valid words and separated by space.
+2) String follows normal grammatical syntax and words might end with commas or full stops followed by space.
+3) Function takes care of empty and null strings.
+4) Tests are written with these assumptions.
